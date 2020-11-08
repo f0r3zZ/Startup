@@ -69,7 +69,7 @@ button, textarea, input, select {
 .main {
   padding-top: 40px;
   padding-bottom: 260px;
-  background: url(/img/main-bg.jpg) no-repeat;
+  background: url(../img/main-bg.jpg) no-repeat;
   background-size: cover;
   position: relative;
   z-index: 0; }

@@ -5,6 +5,10 @@
   *:focus {
     outline: none; }
 
+.burger {
+  display: none;
+}
+
 body {
   padding: 0;
   margin: 0; }
